@@ -1,5 +1,5 @@
 {
-  "name": "@alpandi91/helpers",
+  "name": "@alpandev/helpers",
   "version": "0.0.1",
   "description": "Function helpers",
   "main": "dist/cjs/index.js",
@@ -9,7 +9,8 @@
   ],
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/pandidev"
+    "access": "public",
+    "@alpandev/helper:registry":"https://npm.pkg.github.com/alpandev"
   },
   "scripts": {
     "build": "rollup -c",
