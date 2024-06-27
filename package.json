@@ -1,5 +1,5 @@
 {
-  "name": "@pandi95/helpers",
+  "name": "@alpandi91/helpers",
   "version": "0.0.1",
   "description": "Function helpers",
   "main": "dist/cjs/index.js",
