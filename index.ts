@@ -1,1 +1,1 @@
-export {replacePhoneNumber} from './src'
+export * from './src'
